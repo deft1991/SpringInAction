@@ -9,7 +9,7 @@ import ru.deft.Glava4.Strummed;
 @Component("eddie")
 public class Instrumentalist implements Performer {
 
-    @Value("q")
+//    @Value("q")
     private String song;
 
     @KeysInstrument
